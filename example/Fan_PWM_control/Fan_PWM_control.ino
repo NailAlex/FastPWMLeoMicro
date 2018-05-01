@@ -4,6 +4,9 @@ Sample sketch for control fan with PWM pin(4-pin connectors) with 10K potentiome
 Data render to Serial port
 
 USE WITH ARDUINO LEONARDO AND MICRO ONLY!!!
+FOR OTHER MEGA328/2560 ARDUINAS USE THIS LIBRARY
+http://code.google.com/p/arduino-pwm-frequency-library/downloads/list
+
 ****************************************************
 */
 

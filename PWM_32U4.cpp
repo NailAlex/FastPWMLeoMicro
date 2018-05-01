@@ -5,9 +5,15 @@ Written by Anonymous
 https://gist.github.com/anonymous/f5dc94881438846cf684#file-fastpwmtest-ino
 
 Modified by Alexander Niskorodnov aka NailMan
+**********************************************************
 
+This Library used for ATMega32U4 IC only - Arduino Leonardo and Micro!
+
+FOR OTHER MEGA328/2560 ARDUINAS USE THIS LIBRARY
+http://code.google.com/p/arduino-pwm-frequency-library/downloads/list
 
 **********************************************************
+
 Demostrates the generation of high speed PWM
 using timers 1 and 4
 There are two pieces of code:
